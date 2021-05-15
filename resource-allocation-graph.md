@@ -22,5 +22,3 @@ The request edge can be converted into an assignment edge by reversing the direc
 
 * If a resource category contains more than one instance, then the presence of a cycle in the resource-allocation graph indicates the possibility of a deadlock; but does not guarantee one.
 
-
-
