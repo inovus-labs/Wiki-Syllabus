@@ -2,3 +2,13 @@
 
 The general idea behind deadlock avoidance is to prevent deadlocks from ever happening, by preventing at least one of the aforementioned conditions. This requires more information about each process and tends to lead to low device utilization. In some algorithms, the scheduler only needs to know the maximum number of each resource that a process might potentially use. In more complex algorithms the scheduler can also take advantage of the schedule of exactly what resources may be needed in what order. When a scheduler sees that starting a process or granting resource requests may lead to future deadlocks, then that process is just not started or the request is not granted. A resource allocation state is defined by the number of available and allocated resources; and the maximum requirements of all processes in the system.
 
+## Safe State
+
+## Resource Allocation Graph Algorithm
+
+## Banker's Algorithm
+
+### Safety Algorithm
+
+### Resource Request Algorithm
+
