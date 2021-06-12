@@ -1,4 +1,4 @@
-# Table of contents
+# WikiSyllabus : Deadlock
 
 * [Introduction](introduction.md)
 * [Deadlock Conditions](deadlock-detection.md)
