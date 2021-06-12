@@ -1,4 +1,4 @@
-# WikiSyllabus : Deadlock
+# WikiSyllabus : Deadlock (Operating System)
 
 * [Introduction](introduction.md)
 * [Deadlock Conditions](deadlock-detection.md)
