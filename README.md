@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Introduction](introduction.md)
 * [Deadlock Conditions](deadlock-detection.md)
 * [Resource Allocation Graph](resource-allocation-graph.md)
 * [Deadlock Avoidance](deadlock-avoidance.md)
